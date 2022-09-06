@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xx-bitlegion
-- 👀 I’m interested in cybersecurity  
-- 🌱 I’m currently learning cybersecurity on TryHackMe
+- 👀 I’m interested in Cybersecurity  
+- 🌱 I’m currently learning Cybersecurity on TryHackMe
 - 💞️ I’m looking to collaborate on EH Projects and Bug-Hunting Programs
 - 📫 How to reach me ... Insta - @srijanvikram20
 
